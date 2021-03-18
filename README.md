@@ -1,4 +1,4 @@
-Hi everyone! I'm @pedrodovale. I am Software Developer currently based in Brussels, Belgium.
+Hi everyone! I'm @pedrodovale. I am Software Developer, originally from Portugal.
 
 My Github profile exists for two purposes:
 * Showcase some of the things I've learned the past few years for recruitment purposes

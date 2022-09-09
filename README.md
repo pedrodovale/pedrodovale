@@ -11,15 +11,6 @@ I consider myself to be a back end developer. The language I’m most proficient
 ### Standards
 In the context of implementing solutions, I’ve relied a lot on the following standards: PKCS#11, Cloud Signature Consortium API, OAuth2.0 Framework, and the draft specification DPoP which I’m currently implementing in my daily job.
 
-### What I'm currently doing on Github
-
-This is probably a common feeling amongst developers: I don't work as much outside of work as I feel like I should.
-Anyway, currently, I'm working on this repository:
-
-* [csc-api](https://github.com/pedrodovale/csc-api)
-
-It is an implementation of the Cloud Signature Consortium API leveraging Spring Boot and Spring Security. It includes the collection for a Postman client and the configuration for an instance of Keycloak (acting as an OAuth2 Authorization Server)
-
 ## How to reach me
 
 If you want to reach me, feel free to drop me a message on LinkedIn or to send me an email.
